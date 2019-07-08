@@ -22,6 +22,6 @@ My solutions to the Leetcode problems
 
 8) [Closes BST Value II](src/ClosestBSTValueII.java)
 
-9) [Palindrome Partiioning](src/PalindromePartition.java)    
+9) [Palindrome Partiioning](src/PalidromePartition.java)    
     
  
