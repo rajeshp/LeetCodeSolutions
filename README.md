@@ -9,7 +9,18 @@ My solutions to the Leetcode problems
 
     O(n) single pass solution, calculate final index of element using integer arithmetic
 
-3) [Sling Window Maxium](src/SlidingWindowMaximum.java)
+3) [Convert Sorted Array to BST](src/ConvertSortedArrayToBST.java)
+
+4) [N-ary Tree Level Order Traversal](src/NaryTreeLevelOrderTraversal.java)
+
+5) [Path in ZigZag Labelled Binary Tree](src/PathInZigzagLabelledBinaryTree.java)
+    
+    **Trick is to calculate current position in the level and get the parent of symmetric node.
+
+6) [Maximum Width of a Tree](src/MaximumWidthOfBinaryTree.java)
+
+    ** Calculate max width at each level by keeping track of min & max positions at each level,
+    Use a global map to track min & max position at each level
 
 4) [Word Break](src/WordBreak.java)
 
@@ -22,6 +33,8 @@ My solutions to the Leetcode problems
 
 8) [Closes BST Value II](src/ClosestBSTValueII.java)
 
-9) [Palindrome Partiioning](src/PalidromePartition.java)    
+9) [Palindrome Partiioning](src/PalidromePartition.java)
+
+3) [Sliding Window Maxium](src/SlidingWindowMaximum.java)    
     
  
